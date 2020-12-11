@@ -10,9 +10,9 @@ The 🔒 Random Password Generator 🔒 creates passwords between 8-128 characte
 
 **Screenshots**
 
-![Screenshot](/images/password-generator-2.png)
+![Screenshot](/Images/password-generator-2.png)
 
-![Screenshot](/images/password-generator.png)
+![Screenshot](/Images/password-generator.png)
 
 
 
